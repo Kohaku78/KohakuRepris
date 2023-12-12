@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Лабораторная1", "Лабораторная1\Лабораторная1.vcxproj", "{F238E5CF-26BE-41CD-8815-61DA1D19FE13}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c_code", "c_code\c_code.vcxproj", "{95C9554C-A81D-4BD9-8CFA-91B0EC01CBD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Debug|x64 = Debug|x64
+		Release|Default = Release|Default
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F238E5CF-26BE-41CD-8815-61DA1D19FE13}.Debug|Default.ActiveCfg = Debug|Win32
+		{F238E5CF-26BE-41CD-8815-61DA1D19FE13}.Debug|x64.ActiveCfg = Debug|x64
+		{F238E5CF-26BE-41CD-8815-61DA1D19FE13}.Debug|x64.Build.0 = Debug|x64
+		{F238E5CF-26BE-41CD-8815-61DA1D19FE13}.Release|Default.ActiveCfg = Release|Win32
+		{F238E5CF-26BE-41CD-8815-61DA1D19FE13}.Release|x64.ActiveCfg = Release|x64
+		{F238E5CF-26BE-41CD-8815-61DA1D19FE13}.Release|x64.Build.0 = Release|x64
+		{95C9554C-A81D-4BD9-8CFA-91B0EC01CBD6}.Debug|Default.ActiveCfg = Debug|Win32
+		{95C9554C-A81D-4BD9-8CFA-91B0EC01CBD6}.Debug|x64.ActiveCfg = Debug|x64
+		{95C9554C-A81D-4BD9-8CFA-91B0EC01CBD6}.Debug|x64.Build.0 = Debug|x64
+		{95C9554C-A81D-4BD9-8CFA-91B0EC01CBD6}.Release|Default.ActiveCfg = Release|Win32
+		{95C9554C-A81D-4BD9-8CFA-91B0EC01CBD6}.Release|x64.ActiveCfg = Release|x64
+		{95C9554C-A81D-4BD9-8CFA-91B0EC01CBD6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FCE3B87-79AA-4351-B34D-9E2F9747605C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+EndGlobal
